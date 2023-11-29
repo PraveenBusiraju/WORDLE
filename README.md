@@ -1,1 +1,1 @@
-# WORDLE
+# WORDLE major project
